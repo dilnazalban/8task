@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input,
+textarea,
+button {
+  margin-bottom: 10px;
+}
+
+.BulletinBoard {
+  margin-top: 20px;
+}
+
+.Bulletin {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
